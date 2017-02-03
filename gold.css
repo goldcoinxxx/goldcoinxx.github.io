@@ -5,7 +5,7 @@ body {
 #header {
 	color: #f9ebd9;
 	font-style: italic;
-	font-family: verdana;
+	font-family:helvetica;
 	font-weight: 10px;
 	font-size: 80px;
 	border-style: double;
@@ -23,11 +23,16 @@ body {
 	outline-color: #684D2B;
 	margin-bottom: 120px;
 
+
 }
 
 h2 {
 	color: #F9F2E8;
 	font-weight: 10px;
-	font-size: 40px;
+	font-size: 35px;
 	text-shadow: 5px 2px #846C4E;
+
 }
+
+
+
